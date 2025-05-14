@@ -60,7 +60,7 @@ Repare, com muita atenção, que ao desfazermos esses últimos passos, criamos a
 
 ## Passo 15
 Depois de levantar a ponta, pegue o bico lateral da parte levantada e dobre-o até a metade do trabalho, seguindo as marcas deixadas pelos passos anteriores. Vá passando os dedos lentamente sobre as marcas, ajeitando o papel.  
-![Passo 15](./img15.png)
+![Passo 15](./imgs/img15.png)
 
 ## Passo 16
 Faça o mesmo com o bico da outra lateral.  
